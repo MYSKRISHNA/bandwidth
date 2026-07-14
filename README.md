@@ -20,19 +20,6 @@ Communication flow stability is essential for maintaining reliable execution and
 - **Concurrent Multi-Node Communication Simulator:** Implemented a Go-based concurrent communication simulation using Goroutines and WaitGroups to evaluate runtime communication behavior across distributed clusters.
 - **Scalability Evaluation Across Cluster Sizes:** Evaluated communication stability and coordinated transmission delay across clusters with 3, 5, 7, 9, and 11 nodes, demonstrating improved runtime coordination and scalability.
 
-
-
-
-- **Adaptive CPU Resource Allocation Framework:** Designed a dynamic workload allocation framework that distributes tasks based on real time CPU utilization, improving resource efficiency and balanced node utilization.
-
-- **Intelligent Load Balancing Mechanism:** Implemented a load balancing strategy that selects the least loaded active server, reducing workload imbalance and improving CPU utilization across distributed nodes.
-
-- **Adaptive Auto Scaling Strategy:** Developed an auto scaling mechanism that provisions additional worker nodes when CPU load exceeds predefined thresholds, ensuring sustained performance under increasing workloads.
-
-- **Distributed System Simulation Model:** Implemented a Go based distributed system simulator integrating load balancing, server health monitoring, and adaptive scaling to evaluate CPU resource management strategies.
-
-- **Scalability Analysis Across Cluster Sizes:** Evaluated CPU utilization across clusters of 3, 5, 7, 9, and 11 nodes, demonstrating the scalability benefits of adaptive resource allocation over deterministic approaches. 
-
 ### Experimental Results (Summary)
 
   | Cluster Size | Deterministic Allocation (%) | Load Distributed Allocation (%) | Improvement (%) |
