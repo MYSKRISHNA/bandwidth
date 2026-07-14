@@ -31,14 +31,14 @@ Communication flow stability is essential for maintaining reliable execution and
   | 11           |  57                          | 70                              | 22.81          |
 
 ### Citation
-Adaptive CPU Resource Management in Distributed Systems
+Communication Flow Stabilization Across Multi Node Enterprise Systems
 * SaiKrishna Mylavarapu
-* International Journal of Intelligent Systems and Applications in Engineering (IJISAE) 
-* ISSN E-ISSN: 2147-6799
+* International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences (IJIRMPS) 
+* ISSN E-ISSN: 2349-7300
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.
 * Resources \
-https://www.ijisae.org/ 
+https://www.ijirmps.org/ 
 * Author Contact \
   **LinkedIn**: linkedin.com/in/saikrishna-mylavarapu-35479114 | **Email**: krishnamysap@gmail.com
 
