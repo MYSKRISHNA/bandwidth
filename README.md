@@ -4,10 +4,10 @@
 ### Paper Information
 - **Author(s):** SaiKrishna Mylavarapu
 - **Published In:** International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences (IJIRMPS)
-- **Publication Date:** June, 2022
-- **ISSN:** E-ISSN: 2147-6799
-- **DOI:**
-- **Impact Factor:** 
+- **Publication Date:** August, 2025
+- **ISSN:** E-ISSN: 2349-7300
+- **DOI:** https://doi.org/10.37082/IJIRMPS.v13.i4.233139
+- **Impact Factor:** 9.907
 
 ### Abstract
 Efficient CPU resource management is essential for maintaining high performance in distributed systems as workloads and cluster sizes increase. Static workload allocation results in uneven CPU utilization, while conventional load balancing techniques cannot effectively adapt to dynamic workload variations. The study analyzes CPU usage across clusters with 3, 5, 7, 9, and 11 nodes to evaluate the limitations of existing allocation strategies. It demonstrates how workload imbalance and coordination overhead reduce resource utilization, system efficiency, and scalability. The findings highlight the need for adaptive workload allocation mechanisms based on real-time CPU usage to achieve balanced resource utilization and improved overall performance.
