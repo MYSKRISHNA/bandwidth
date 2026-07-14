@@ -14,7 +14,7 @@ Communication flow stability is essential for maintaining reliable execution and
 
 ### Core Technical Contributions
 
-- **Intelligent Communication Flow Stabilization Framework:** Designed a runtime-aware framework that continuously monitors communication behavior and dynamically stabilizes transmission across distributed enterprise systems.
+- **Intelligent Communication Flow Stabilization Framework:** \ Designed a runtime-aware framework that continuously monitors communication behavior and dynamically stabilizes transmission across distributed enterprise systems.
 - **Real-Time Communication Monitoring Mechanism:** Implemented continuous monitoring of transmission delay, congestion levels, synchronization status, and packet flow to proactively detect communication instability.
 - **Adaptive Communication Coordination Model:** Developed a dynamic coordination mechanism that regulates communication flow, reduces congestion, and restores synchronization before operational degradation occurs.
 - **Concurrent Multi-Node Communication Simulator:** Implemented a Go-based concurrent communication simulation using Goroutines and WaitGroups to evaluate runtime communication behavior across distributed clusters.
