@@ -10,7 +10,7 @@
 - **Impact Factor:** 9.907
 
 ### Abstract
-Efficient CPU resource management is essential for maintaining high performance in distributed systems as workloads and cluster sizes increase. Static workload allocation results in uneven CPU utilization, while conventional load balancing techniques cannot effectively adapt to dynamic workload variations. The study analyzes CPU usage across clusters with 3, 5, 7, 9, and 11 nodes to evaluate the limitations of existing allocation strategies. It demonstrates how workload imbalance and coordination overhead reduce resource utilization, system efficiency, and scalability. The findings highlight the need for adaptive workload allocation mechanisms based on real-time CPU usage to achieve balanced resource utilization and improved overall performance.
+Communication flow stability is essential for maintaining reliable execution and coordination in distributed enterprise systems operating under dynamic workloads. Existing static communication management approaches are unable to efficiently handle runtime communication variations, resulting in increased latency, synchronization delays, and service instability. The proposed framework continuously analyzes communication behavior, workload interactions, and service synchronization to detect unstable conditions before performance degradation occurs. It introduces intelligent runtime-aware communication management to improve communication consistency, infrastructure coordination, and operational continuity. The study demonstrates that adaptive communication flow stabilization significantly enhances the reliability and stability of modern distributed enterprise environments.
 
 ### Core Technical Contributions
 
