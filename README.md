@@ -24,11 +24,11 @@ Communication flow stability is essential for maintaining reliable execution and
 
   | Nodes | Runtime delay (ms) | Coordinated delay (ms) | Improvement (%) |
   |-------|--------------------| -----------------------| ----------------|
-  | 3     |  1180              | 540                    | 5.13            |
-  | 5     |  1430              | 670                    | 9.72            |
-  | 7     |  1690              | 810                    | 13.64           |
-  | 9     |  1960              | 960                    | 18.03           |
-  | 11    |  2240              | 1120                   | 22.81           |
+  | 3     |  1180              | 540                    | 54.24           |
+  | 5     |  1430              | 670                    | 53.15           |
+  | 7     |  1690              | 810                    | 52.07           |
+  | 9     |  1960              | 960                    | 51.02           |
+  | 11    |  2240              | 1120                   | 50.00           |
 
 ### Citation
 Communication Flow Stabilization Across Multi Node Enterprise Systems
