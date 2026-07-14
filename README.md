@@ -22,13 +22,13 @@ Communication flow stability is essential for maintaining reliable execution and
 
 ### Experimental Results (Summary)
 
-  | Cluster Size | Deterministic Allocation (%) | Load Distributed Allocation (%) | Improvement (%) |
-  |--------------|------------------------------| --------------------------------| ---------------|
-  | 3            |  78                          | 82                              | 5.13           |
-  | 5            |  72                          | 79                              | 9.72           |
-  | 7            |  66                          | 75                              | 13.64          |
-  | 9            |  61                          | 72                              | 18.03          |
-  | 11           |  57                          | 70                              | 22.81          |
+  | Nodes | Runtime delay (ms) | Coordinated delay (ms) | Improvement (%) |
+  |-------|--------------------| -----------------------| ----------------|
+  | 3     |  1180              | 540                    | 5.13            |
+  | 5     |  1430              | 670                    | 9.72            |
+  | 7     |  1690              | 810                    | 13.64           |
+  | 9     |  1960              | 960                    | 18.03           |
+  | 11    |  2240              | 1120                   | 22.81           |
 
 ### Citation
 Communication Flow Stabilization Across Multi Node Enterprise Systems
